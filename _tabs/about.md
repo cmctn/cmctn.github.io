@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm Cem! I’m a software developer specializing in backend development, with a focus on Java, Spring Boot, and I've recently been exploring Kotlin with a growing interest.
+Hi, I’m Cem! I’m a software developer specializing in backend development, with a focus on Java and Spring Boot, and I’ve recently been exploring Kotlin with growing interest.
 
-I created this blog as a space to share my experiences, insights, and the lessons I've learned in the world of software development, as well as to keep some of my own notes. Here, you'll find articles about Java, backend architecture, algorithms, and software best practices, along with the occasional post about tools, techniques, and trends in the industry.
+I created this blog to share my experiences, insights, and lessons learned in software development, and to keep some of my personal notes.
+
+Here, you’ll find articles on Java, and of course Kotlin, backend architecture, algorithms, and software best practices, along with occasional posts on tools, techniques, and industry trends.
