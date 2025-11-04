@@ -8,4 +8,4 @@ Hi, I’m Cem! I’m a software developer specializing in backend development, w
 
 I created this blog to share my experiences, insights, and lessons learned in software development, and to keep some of my personal notes.
 
-Here, you’ll find articles on Java, and of course Kotlin, backend architecture, algorithms, and software best practices, along with occasional posts on tools, techniques, and industry trends.
+Here, you’ll find articles on Java, and of course Kotlin, architecture, algorithms, and software best practices, along with occasional posts on tools, techniques, and industry trends.
